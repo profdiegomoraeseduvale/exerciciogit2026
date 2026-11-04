@@ -12,8 +12,10 @@ button {
     padding: 10px 20px;
     font-size: 16px;
     background-color: #007bff;
-    font-color: white;
+    color: white;
     border: none;
     border-radius: 5px;
     cursor: pointer;
 }
+
+/* A propriedade font-color ela não existe, o correto é usar color para definir a cor do texto */
